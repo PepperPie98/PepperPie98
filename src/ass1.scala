@@ -18,3 +18,4 @@ object ass1 extends App{
  
  rdd2.collect().foreach(println)
 }
+/*jlkfjasl f*/
